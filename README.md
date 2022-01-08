@@ -1,4 +1,4 @@
-#REST API SERVER
+# REST API SERVER
 
 ### Stack : Node js + Express + MongoDB + mongoose + jsonwebtokens + bcrypt
 
